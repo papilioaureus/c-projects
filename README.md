@@ -5,6 +5,8 @@ This collection of files helps a user run a tie tac toe interface where two play
 
 Including test suites is often a good idea when creating programming projects in any language because it allows you to test the rigidity of individual functions and components.
 
+In order to run the collection of files, please download the repository, extract the files into a new folder, and open it in an IDE of your choice. 
+
 The game can be run by pressing 'Play' in any C/C++ compiler. It can also be run from the terminal. 
 
 ![image](https://github.com/solsylph/tic-tac-toe/assets/126614634/ce497fae-749a-4a84-a861-22ab35db9e5a)
